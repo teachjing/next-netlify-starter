@@ -1,0 +1,10 @@
+{
+    "index": "🏠 My Homepage",
+    "contact": "Contact Us",
+    "about": {
+        "title": "About Us"
+    },
+    "demo_environment" : {
+        "title" : "Demo Environment"
+    }
+  }
